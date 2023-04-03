@@ -11,7 +11,8 @@ public class PlayerControl : MonoBehaviour
     public Color selectedColor;
     public Color defaultColor;
     public bool selected = false;
-  
+    public GameObject fire;
+
 
     GameManager gm;
 
@@ -31,7 +32,7 @@ public class PlayerControl : MonoBehaviour
     {
  
     
-            }
+    }
 
     private void OnMouseEnter()
     {
