@@ -1,7 +1,7 @@
 # game615-spring2023-08
  TEAM: Mingheng Li & Fiona
  
- lINK: https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/
+ LINK: https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/
  
  
  CREDITS:
