@@ -4,14 +4,14 @@
 - Left-click to select the character
 - Press "fire" button
 
-TEAM: Mingheng Li & Fiona
+**TEAM:** Mingheng Li & Fiona
  
 [**Playable link to game**](https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/) 
 
 [**Link to source (GitHub page)**](https://github.com/FiooonaGao/game615-spring2023-08) 
  
  
-CREDITS:
+**CREDITS:**
 
 Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza
 
