@@ -1,11 +1,21 @@
 # game615-spring2023-08
- TEAM: Mingheng Li & Fiona
+
+**How to play:** 
+- Left-click to select the character
+- Press "fire" button
+
+TEAM: Mingheng Li & Fiona
  
- LINK: https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/
+[**Playable link to game**](https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/) 
+
+[**Link to source (GitHub page)**](https://github.com/FiooonaGao/game615-spring2023-08) 
  
  
- CREDITS:
- 
+CREDITS:
+
+Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza
+
+Toaster Oven byMilkAndBanana 
  
 Tomato by Zoe XR [CC-BY] via Poly Pizza
 
