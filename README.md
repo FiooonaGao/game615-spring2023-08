@@ -1,10 +1,10 @@
 # game615-spring2023-08
 
+**TEAM:** Mingheng Li & Fiona
+
  **How to play:** 
 - Left-click to select the character
-- Press "fire" button
-
- **TEAM:** Mingheng Li & Fiona
+- Press "fire" button 
  
 [**Playable link to game**](https://fiooonagao.github.io/game615-spring2023-08/exersice08/play/) 
 
